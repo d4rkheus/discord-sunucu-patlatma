@@ -1,4 +1,4 @@
-[](https://hits.sh/github.com/d4rkheus/discord-sunucu-patlatma.svg)
+[x](https://hits.sh/github.com/d4rkheus/discord-sunucu-patlatma.svg)
 # discord-sunucu-patlatma
 Discord platformunda yetki veya sunucuya bir bot eklemeden sunucuda nasıl reklam yapılabileceğine dair repo.
 
