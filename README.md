@@ -23,6 +23,7 @@ Yapılacak şey çok basit. Bir çok sunucu sahibi bu izni açık unutuyor ve sp
 - Sunucu ayarlarına girin.
 - "Harici Uygulamaları Kullan" adındaki izni tüm rollerde kapalı hale getirin.
 <img width="565" height="340" alt="image" src="https://github.com/user-attachments/assets/44bd09f7-db10-40b8-81f4-b02fcc61171f" />
+
 - İşlem bitti, artık güvendesiniz.
 
 # Uyarı
