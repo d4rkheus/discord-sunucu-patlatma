@@ -1,5 +1,5 @@
 ![](https://hits.sh/github.com/d4rkheus/discord-sunucu-patlatma.svg)
-# discord-sunucu-patlatma
+# discord-spam-bot
 Discord platformunda yetki veya sunucuya bir bot eklemeden sunucuda nasıl reklam yapılabileceğine dair repo.
 
 # Bilgilendirme
